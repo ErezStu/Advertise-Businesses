@@ -1,5 +1,6 @@
 # An app of business and simple users, the business users, can advertise businesses, a simple user can only watch them.
-I used React and Node JS libraries.
+
+I used React, Node JS, MongoDB and Bootstrap libraries.
 
 Download it and type "npm install" on each one library (client and server).
 
