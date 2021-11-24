@@ -7,5 +7,3 @@ Download it and type "npm install" on each one library (client and server).
 
 After that in the Server library type: "node app".
 in the client library, type "npm start" and choose another address server when it asks you.
-
-Enjoy
