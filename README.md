@@ -18,6 +18,8 @@ Run "node app".
 # on the Client library:
 Run "npm start" and choose yes to a diffrent address client when it asks you.
 
+# Link to the site: https://advertise-businesses.netlify.app
+
 ![image](https://user-images.githubusercontent.com/88786771/143210144-90f36324-0f01-4a28-ae48-06eafb3d76e8.png)
 
 ![image](https://user-images.githubusercontent.com/88786771/143210326-9df284dc-e1d5-4392-a841-ad4ebdecd06d.png)
@@ -28,4 +30,3 @@ Run "npm start" and choose yes to a diffrent address client when it asks you.
 
 ![image](https://user-images.githubusercontent.com/88786771/143211302-f64eafb5-1ed1-4e12-9a3a-2a443e4a8f6e.png)
 
-https://advertise-businesses.netlify.app
